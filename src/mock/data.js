@@ -13,6 +13,7 @@ export const heroData = {
   name: 'Nicolas Gomez',
   subtitle: 'I am a full stack web developer',
   cta: 'About Me',
+
 };
 
 // ABOUT DATA
