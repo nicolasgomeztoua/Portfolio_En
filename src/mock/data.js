@@ -61,7 +61,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Pathfinder.png',
-    title: 'Buscador de Rutas',
+    title: 'Pathfinding visualizer',
     info: 'A visualizer of the Dijkstras graph traversal algorithm. In order to find the shortest path.',
     info2:'Place walls and bombs to experiment with the shortest path.',
     url: 'https://pathfinder-two.vercel.app/',
