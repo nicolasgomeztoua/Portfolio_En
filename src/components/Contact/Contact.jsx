@@ -14,14 +14,14 @@ const Contact = () => {
         <Title title="Contact" />
         <Fade bottom duration={1000} delay={800} distance="30px">
           <div className="contact-wrapper">
-            <p className="contact-wrapper__text">{cta || 'Te gusta mi trabajo? Genial!'}</p>
+            <p className="contact-wrapper__text">{cta || 'Do you like my work? Great!'}</p>
             <a
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
               href={email ? `mailto:${email}` : 'https://github.com/cobidev/react-simplefolio'}
             >
-              {btn || 'Hablemos'}
+              {btn || 'Let´s talk'}
             </a>
           </div>
         </Fade>
