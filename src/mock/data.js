@@ -25,7 +25,7 @@ export const aboutData = {
     'I come from a variety of backgrounds. And I´ve been exposed to a multicultural environment all my life. I have spent years of my life in Spain, Morocco, France, and the UK, as well as graduating from an American high school in Morocco.',
   paragraphThree:
     'In an ever-growing industry, I´m primarily concerned with learning the complex parts early on. I am proud of where I am today, and I make a constant effort to learn new skills and improve current ones every day.',
-  resume: 'https://pdfhost.io/v/~yytzQedb_newCVNicolasEN', // if no resume, the button will not show up
+  resume: 'https://pdfhost.io/v/jS5Rjis0j_newCVNicolasEN', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
